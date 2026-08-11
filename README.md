@@ -10,6 +10,7 @@ Public metadata-only projection of services and substrate boundaries. Canonical 
 | Spine Spire | spine evidence only | canonical | [spine-spire](https://github.com/AnarchI-Technologies/spine-spire) | private |
 | Therma-Stats | host evidence only | canonical | [therma-stats](https://github.com/AnarchI-Technologies/therma-stats) | private |
 | Chronicle | durable evidence only | canonical | [anarchi-chronicle](https://github.com/AnarchI-Technologies/anarchi-chronicle) | private |
+| Kiln 0.1.0 | independent verification only | canonical | [anarchi-kiln](https://github.com/AnarchI-Technologies/anarchi-kiln) | private |
 | Cloudflare Tunnel/Caddy | secured edge transport | live external infrastructure | no implementation repo claimed | external |
 | Render | none | retired | historical provider only | none |
 | Railway | none | paused/obsolete | historical provider only | none |
