@@ -7,7 +7,7 @@ members:
   - {id: watchtower, repo: AnarchI-Technologies/watchtower, status: canonical}
   - {id: spine-spire, repo: AnarchI-Technologies/spine-spire, status: reconstruction}
   - {id: therma-stats, repo: AnarchI-Technologies/therma-stats, status: reconstruction}
-  - {id: retention-retainers, repo: AnarchI-Technologies/retention-retainers, status: reconstruction}
+  - {id: chronicle, repo: AnarchI-Technologies/anarchi-chronicle, status: canonical}
 providers:
   - {id: render, authority: none, status: retired}
   - {id: railway, authority: none, status: paused-obsolete}
