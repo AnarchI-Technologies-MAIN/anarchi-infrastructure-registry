@@ -7,8 +7,8 @@ Public metadata-only projection of services and substrate boundaries. Canonical 
 | Pulse | lifecycle/readiness | canonical | [pulse-runtime](https://github.com/AnarchI-Technologies/pulse-runtime) |
 | Switchboard | routing only | canonical | [switch-board](https://github.com/AnarchI-Technologies/switch-board) |
 | Watchtower | ecosystem evidence only | canonical | [watchtower](https://github.com/AnarchI-Technologies/watchtower) |
-| Spine Spire | spine evidence only | reconstruction | [spine-spire](https://github.com/AnarchI-Technologies/spine-spire) |
-| Therma-Stats | host evidence only | reconstruction | [therma-stats](https://github.com/AnarchI-Technologies/therma-stats) |
+| Spine Spire | spine evidence only | canonical | [spine-spire](https://github.com/AnarchI-Technologies/spine-spire) |
+| Therma-Stats | host evidence only | canonical | [therma-stats](https://github.com/AnarchI-Technologies/therma-stats) |
 | Chronicle | durable evidence only | canonical | [anarchi-chronicle](https://github.com/AnarchI-Technologies/anarchi-chronicle) |
 | Cloudflare Tunnel/Caddy | secured edge transport | live external infrastructure | no implementation repo claimed |
 | Render | none | retired | historical provider only |

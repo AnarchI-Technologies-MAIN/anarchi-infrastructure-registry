@@ -6,8 +6,8 @@ members:
   - {id: pulse, repo: AnarchI-Technologies/pulse-runtime, status: canonical}
   - {id: switchboard, repo: AnarchI-Technologies/switch-board, status: canonical}
   - {id: watchtower, repo: AnarchI-Technologies/watchtower, status: canonical}
-  - {id: spine-spire, repo: AnarchI-Technologies/spine-spire, status: reconstruction}
-  - {id: therma-stats, repo: AnarchI-Technologies/therma-stats, status: reconstruction}
+  - {id: spine-spire, repo: AnarchI-Technologies/spine-spire, status: canonical}
+  - {id: therma-stats, repo: AnarchI-Technologies/therma-stats, status: canonical}
   - {id: chronicle, repo: AnarchI-Technologies/anarchi-chronicle, status: canonical}
 providers:
   - {id: render, authority: none, status: retired}
