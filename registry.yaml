@@ -1,0 +1,13 @@
+schema_version: 1
+family: infrastructure-services
+canonical_source: true
+members:
+  - {id: pulse, repo: AnarchI-Technologies/pulse-runtime, status: canonical}
+  - {id: switchboard, repo: AnarchI-Technologies/switch-board, status: canonical}
+  - {id: watchtower, repo: AnarchI-Technologies/watchtower, status: canonical}
+  - {id: spine-spire, repo: AnarchI-Technologies/spine-spire, status: reconstruction}
+  - {id: therma-stats, repo: AnarchI-Technologies/therma-stats, status: reconstruction}
+  - {id: retention-retainers, repo: AnarchI-Technologies/retention-retainers, status: reconstruction}
+providers:
+  - {id: render, authority: none, status: retired}
+  - {id: railway, authority: none, status: paused-obsolete}

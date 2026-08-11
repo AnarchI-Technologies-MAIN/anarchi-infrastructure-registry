@@ -1,0 +1,4 @@
+schema_version: 1
+identity: {organization: AnarchI, component: Infrastructure Registry, canonical_name: anarchi-infrastructure-registry, responsibility: public infrastructure index, authority: metadata-only}
+repository: {owner: AnarchI-Technologies, name: anarchi-infrastructure-registry, visibility: public, status: canonical}
+boundaries: {owns: [service classification, provider status], forbids: [deployment credentials, implementation, routing]}

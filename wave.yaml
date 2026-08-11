@@ -1,0 +1,6 @@
+schema_version: 1
+wave: registry-publication-v1
+artifact: anarchi-infrastructure-registry
+inputs: [remote-topology-census, observed-runtime-topology]
+outputs: [README.md, registry.yaml]
+
