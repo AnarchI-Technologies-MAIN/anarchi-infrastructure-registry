@@ -3,12 +3,12 @@ family: infrastructure-services
 canonical_source: false
 projection_of: validated-repository-manifests-and-observed-runtime-topology
 members:
-  - {id: pulse, repo: AnarchI-Technologies/pulse-runtime, status: canonical}
-  - {id: switchboard, repo: AnarchI-Technologies/switch-board, status: canonical}
-  - {id: watchtower, repo: AnarchI-Technologies/watchtower, status: canonical}
-  - {id: spine-spire, repo: AnarchI-Technologies/spine-spire, status: canonical}
-  - {id: therma-stats, repo: AnarchI-Technologies/therma-stats, status: canonical}
-  - {id: chronicle, repo: AnarchI-Technologies/anarchi-chronicle, status: canonical}
+  - {id: pulse, repo: AnarchI-Technologies/pulse-runtime, status: canonical, implementation_visibility: private}
+  - {id: switchboard, repo: AnarchI-Technologies/switch-board, status: canonical, implementation_visibility: private}
+  - {id: watchtower, repo: AnarchI-Technologies/watchtower, status: canonical, implementation_visibility: private}
+  - {id: spine-spire, repo: AnarchI-Technologies/spine-spire, status: canonical, implementation_visibility: private}
+  - {id: therma-stats, repo: AnarchI-Technologies/therma-stats, status: canonical, implementation_visibility: private}
+  - {id: chronicle, repo: AnarchI-Technologies/anarchi-chronicle, status: canonical, implementation_visibility: private}
 providers:
   - {id: render, authority: none, status: retired}
   - {id: railway, authority: none, status: paused-obsolete}
