@@ -1,6 +1,7 @@
 schema_version: 1
 family: infrastructure-services
-canonical_source: true
+canonical_source: false
+projection_of: validated-repository-manifests-and-observed-runtime-topology
 members:
   - {id: pulse, repo: AnarchI-Technologies/pulse-runtime, status: canonical}
   - {id: switchboard, repo: AnarchI-Technologies/switch-board, status: canonical}

@@ -1,6 +1,6 @@
 # AnarchI Infrastructure Registry
 
-Public metadata-only source of truth for services and substrate boundaries.
+Public metadata-only projection of services and substrate boundaries. Canonical truth remains in validated repository manifests and observed runtime topology; Kiln compiles this view and rejects drift.
 
 | Service | Authority | Status | Repository |
 |---|---|---|---|
