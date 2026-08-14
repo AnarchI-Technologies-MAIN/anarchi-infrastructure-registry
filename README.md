@@ -4,13 +4,13 @@ Public metadata-only projection of services and substrate boundaries. Canonical 
 
 | Service | Authority | Status | Repository | Implementation visibility |
 |---|---|---|---|---|
-| Pulse | lifecycle/readiness | canonical | [pulse-runtime](https://github.com/AnarchI-Technologies/pulse-runtime) | private |
-| Switchboard | routing only | canonical | [switch-board](https://github.com/AnarchI-Technologies/switch-board) | private |
-| Watchtower | ecosystem evidence only | canonical | [watchtower](https://github.com/AnarchI-Technologies/watchtower) | private |
-| Spine Spire | spine evidence only | canonical | [spine-spire](https://github.com/AnarchI-Technologies/spine-spire) | private |
-| Therma-Stats | host evidence only | canonical | [therma-stats](https://github.com/AnarchI-Technologies/therma-stats) | private |
-| Chronicle | durable evidence only | canonical | [anarchi-chronicle](https://github.com/AnarchI-Technologies/anarchi-chronicle) | private |
-| Kiln 0.1.0 | independent verification only | canonical | [anarchi-kiln](https://github.com/AnarchI-Technologies/anarchi-kiln) | private |
+| Pulse | lifecycle/readiness | canonical | [pulse-runtime](https://github.com/AnarchI-Technologies-MAIN/pulse-runtime) | private |
+| Switchboard | routing only | canonical | [switch-board](https://github.com/AnarchI-Technologies-MAIN/switch-board) | private |
+| Watchtower | ecosystem evidence only | canonical | [watchtower](https://github.com/AnarchI-Technologies-MAIN/watchtower) | private |
+| Spine Spire | spine evidence only | canonical | [spine-spire](https://github.com/AnarchI-Technologies-MAIN/spine-spire) | private |
+| Therma-Stats | host evidence only | canonical | [therma-stats](https://github.com/AnarchI-Technologies-MAIN/therma-stats) | private |
+| Chronicle | durable evidence only | canonical | [anarchi-chronicle](https://github.com/AnarchI-Technologies-MAIN/anarchi-chronicle) | private |
+| Kiln 0.1.0 | independent verification only | canonical | [anarchi-kiln](https://github.com/AnarchI-Technologies-MAIN/anarchi-kiln) | private |
 | Cloudflare Tunnel/Caddy | secured edge transport | live external infrastructure | no implementation repo claimed | external |
 | Render | none | retired | historical provider only | none |
 | Railway | none | paused/obsolete | historical provider only | none |
