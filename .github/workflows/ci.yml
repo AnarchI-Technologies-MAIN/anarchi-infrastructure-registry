@@ -1,0 +1,13 @@
+name: ci
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    uses: AnarchI-Technologies-MAIN/.github/.github/workflows/reusable-registry.yml@6cb93b6a89db636c59f0094da23d9deec4732e13
